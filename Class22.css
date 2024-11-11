@@ -188,6 +188,10 @@ input[type=submit]:hover {
   }
 }
 
-.outline{
-  back
+.hov{
+ background-color:  hsl(230, 57%, 44%) !important;
+ border-color:   hsl(230, 57%, 44%) !important;
+ outline: none  !important;
+ color: white!important;
+
 }
